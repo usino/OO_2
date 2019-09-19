@@ -38,6 +38,8 @@ XXXXSSS
 
 
 
+
+
 | 1      | 2       |  3     |
 | :----- | :-----: | -----: |
 | FIRST  | SECOND  |  THIRD |
@@ -64,6 +66,9 @@ capture.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)
 capture.release()
 cv2.destroyAllWindows()
 ```
+
+
+![nkust](nkust.png"第一科大")
 
 
 
