@@ -68,7 +68,7 @@ cv2.destroyAllWindows()
 ```
 
 
-![nkust](nkust.png"第一科大")
+![nkust](nkust.png "第一科大")
 
 
 
